@@ -1,0 +1,10 @@
+C:\Wrkfldr\LaboBd3\Model\Model\bin\Debug\Model.dll.config
+C:\Wrkfldr\LaboBd3\Model\Model\bin\Debug\Model.dll
+C:\Wrkfldr\LaboBd3\Model\Model\bin\Debug\Model.pdb
+C:\Wrkfldr\LaboBd3\Model\Model\bin\Debug\EntityFramework.dll
+C:\Wrkfldr\LaboBd3\Model\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Wrkfldr\LaboBd3\Model\Model\bin\Debug\EntityFramework.xml
+C:\Wrkfldr\LaboBd3\Model\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Wrkfldr\LaboBd3\Model\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Wrkfldr\LaboBd3\Model\Model\obj\Debug\Model.dll
+C:\Wrkfldr\LaboBd3\Model\Model\obj\Debug\Model.pdb
