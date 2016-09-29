@@ -1,1 +1,14 @@
 C:\Wrkfldr\LaboBd3\Model\Model.Tests\obj\Debug\Model.Tests.csprojResolveAssemblyReference.cache
+C:\Wrkfldr\LaboBd3\Model\Model.Tests\bin\Debug\Model.Tests.dll.config
+C:\Wrkfldr\LaboBd3\Model\Model.Tests\bin\Debug\Model.Tests.dll
+C:\Wrkfldr\LaboBd3\Model\Model.Tests\bin\Debug\Model.Tests.pdb
+C:\Wrkfldr\LaboBd3\Model\Model.Tests\bin\Debug\EntityFramework.dll
+C:\Wrkfldr\LaboBd3\Model\Model.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Wrkfldr\LaboBd3\Model\Model.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Wrkfldr\LaboBd3\Model\Model.Tests\bin\Debug\Model.dll
+C:\Wrkfldr\LaboBd3\Model\Model.Tests\bin\Debug\Model.pdb
+C:\Wrkfldr\LaboBd3\Model\Model.Tests\bin\Debug\EntityFramework.xml
+C:\Wrkfldr\LaboBd3\Model\Model.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Wrkfldr\LaboBd3\Model\Model.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Wrkfldr\LaboBd3\Model\Model.Tests\obj\Debug\Model.Tests.dll
+C:\Wrkfldr\LaboBd3\Model\Model.Tests\obj\Debug\Model.Tests.pdb
