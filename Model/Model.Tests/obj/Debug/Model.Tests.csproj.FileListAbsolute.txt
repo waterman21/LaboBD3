@@ -12,3 +12,17 @@ C:\Wrkfldr\LaboBd3\Model\Model.Tests\bin\Debug\EntityFramework.SqlServer.xml
 C:\Wrkfldr\LaboBd3\Model\Model.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 C:\Wrkfldr\LaboBd3\Model\Model.Tests\obj\Debug\Model.Tests.dll
 C:\Wrkfldr\LaboBd3\Model\Model.Tests\obj\Debug\Model.Tests.pdb
+C:\Users\etu23543\Source\Repos\LaboBD3\Model\Model.Tests\bin\Debug\Model.Tests.dll.config
+C:\Users\etu23543\Source\Repos\LaboBD3\Model\Model.Tests\bin\Debug\Model.Tests.dll
+C:\Users\etu23543\Source\Repos\LaboBD3\Model\Model.Tests\bin\Debug\Model.Tests.pdb
+C:\Users\etu23543\Source\Repos\LaboBD3\Model\Model.Tests\bin\Debug\EntityFramework.dll
+C:\Users\etu23543\Source\Repos\LaboBD3\Model\Model.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\etu23543\Source\Repos\LaboBD3\Model\Model.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\etu23543\Source\Repos\LaboBD3\Model\Model.Tests\bin\Debug\Model.dll
+C:\Users\etu23543\Source\Repos\LaboBD3\Model\Model.Tests\bin\Debug\Model.pdb
+C:\Users\etu23543\Source\Repos\LaboBD3\Model\Model.Tests\bin\Debug\EntityFramework.xml
+C:\Users\etu23543\Source\Repos\LaboBD3\Model\Model.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\etu23543\Source\Repos\LaboBD3\Model\Model.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\etu23543\Source\Repos\LaboBD3\Model\Model.Tests\obj\Debug\Model.Tests.csprojResolveAssemblyReference.cache
+C:\Users\etu23543\Source\Repos\LaboBD3\Model\Model.Tests\obj\Debug\Model.Tests.dll
+C:\Users\etu23543\Source\Repos\LaboBD3\Model\Model.Tests\obj\Debug\Model.Tests.pdb
