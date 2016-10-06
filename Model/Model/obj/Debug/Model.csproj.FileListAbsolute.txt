@@ -17,3 +17,4 @@ C:\Users\etu23543\Source\Repos\LaboBD3\Model\Model\bin\Debug\EntityFramework.xml
 C:\Users\etu23543\Source\Repos\LaboBD3\Model\Model\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\etu23543\Source\Repos\LaboBD3\Model\Model\obj\Debug\Model.dll
 C:\Users\etu23543\Source\Repos\LaboBD3\Model\Model\obj\Debug\Model.pdb
+C:\Users\etu23543\Source\Repos\LaboBD3\Model\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
